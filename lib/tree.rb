@@ -1,7 +1,7 @@
 =begin
 This program constructs christmas tree and stores it in the .txt file in the given location
 =end
-
+require 'rspec'
 # method to validate user input for height
 def getTreeHeight
   loop do
